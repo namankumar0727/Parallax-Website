@@ -5,10 +5,3 @@ Parallax Website 🌟 This project is a simple yet elegant parallax website buil
 
 📌 Tech Stack
 HTML  CSS 
-
-📬 Connect With Me
-LinkedIn - Indra Shekhar
-Twitter - @Indra684
-📌 Acknowledgments
-Course Instructor - Love Babbar-CodeHelp
-Icons Used For Tech Stack Section - https://img.shields.io
